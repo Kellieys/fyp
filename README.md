@@ -1,7 +1,7 @@
 # COMP3025 Final Year Project
 ## Understanding the folder
 #### The folder name listed below is the process of each step:
-##### *Please note that each of these folder contains its own README file to explains its purpose.
+##### *Please note that each of these folder contains its own README file to explains its purpose and what has been done to achieve the outcome.
 <ol>
 <li>dataset</li>
 <li>cnn_training</li>
