@@ -46,6 +46,6 @@
 #### Execute the project
 #### *Make you your terminal is in the cloned folder directory, then execute:
 <ol>
-<li>python3 real-time-detection.py</li>
+<li>python real-time-detection.py</li>
 <li>press "q" on keyboard to quit the program</li>
 </ol>
