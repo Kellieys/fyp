@@ -28,7 +28,7 @@ Run the following command in the terminal to install dependencies:
 ---Execute the project---
 *Make you your terminal is in the cloned folder directory, then execute:
 
-1. python3 real-time-detection.py
+1. python3 raspi-real-time-detection.py
 2. press "q" on keyboard to quit the program
 
 ---Hardware Setup---
